@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>175-1751649_hamburger-svg-drawn-free-free-hamburger-menu-icon.png</file>
+        <file>mospolytech-logo-white.png</file>
+        <file>dislike.png</file>
+        <file>png-transparent-brand-angle-technology-angle-cdr-angle-white.png</file>
+        <file>37-372547_top-masonic-blogs-youtube-comment-icon-png-clipart.png</file>
+        <file>53-533552_vector-royalty-free-thing-leadoutloud-cool-tools-for.png</file>
+        <file>like-thumb-black-product.png</file>
+    </qresource>
+</RCC>
